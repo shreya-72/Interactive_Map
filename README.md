@@ -1,1 +1,1 @@
-# Interactive_Map
+# Google Maps in React Crash Course
